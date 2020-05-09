@@ -1555,5 +1555,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Knuttas's solution](https://github.com/Knuttas/rock-paper-scissors)
 - [Dyskgo's Solution](https://github.com/dyskgo/rockpaperscissors) - [View in Browser](https://dyskgo.github.io/rockpaperscissors/)
 - [Kaizwebdesign's Solution](https://github.com/kaizwebdesign/rock-paper-scissors)
+*Add My Solution Here*  - [Shinjimx's Solution](https://github.com/Shinjimx/ROCK-PAPER-SCISSORS) - [View in Browser](https://shinjimx.github.io/ROCK-PAPER-SCISSORS)
 </details>
 
